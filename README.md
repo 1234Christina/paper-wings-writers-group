@@ -24,5 +24,6 @@ They can also enter fiction writing competitions on the competitions page by fil
 ## Citation of sources
 ### Credits
 ### Content
+The ten writing quotes by famous writers came from this website  https://blog.reedsy.com/writing-quotes/
 ### Media
 ## Future Features
